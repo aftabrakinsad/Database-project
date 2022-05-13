@@ -1,2 +1,1 @@
-# ooad-project
-Car Ride Management System
+#Car Ride Management System
