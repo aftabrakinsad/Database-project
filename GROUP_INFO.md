@@ -5,7 +5,7 @@
   </tr>
 
   <tr>
-    <th colspan="2"><h3>CSC2209	OBJECT ORIENTED ANALYSIS AND DESIGN</h3></h>
+    <th colspan="2"><h3>CSC2108	INTRODUCTION TO DATABASE</h3></h>
   </tr>
   
   <tr>
