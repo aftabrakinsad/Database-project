@@ -32,7 +32,7 @@
   </tr>
   
   <tr>
-    <td><a href= "https://github.com/GloriousMir">TANZIM ZAMAN SANY</a></td>
+    <td>TANZIM ZAMAN SANY</td>
     <td>19-41409-3</td>
   </tr>
   
