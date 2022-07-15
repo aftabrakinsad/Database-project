@@ -9,7 +9,7 @@
   </tr>
   
   <tr>
-    <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/m.hasan">DR. MOHAMMAD MAHMUDUL HASAN</a></th>
+    <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/rifat.tasnim">RIFAT TASNIM ANANNYA</a></th>
   </tr>
   
   <tr>
