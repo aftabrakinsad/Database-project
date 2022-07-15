@@ -27,23 +27,23 @@
   </tr>
   
   <tr>
-    <td>SHIHABUN SAKIBA JANNAT</td>
-    <td>20-41992-1</td>
+    <td>MD. ASADUL HOQUE CHOWDHURY</td>
+    <td>20-42702-1</td>
   </tr>
   
   <tr>
-    <td><a href= "https://github.com/GloriousMir">MIR MARUF AHMED</a></td>
-    <td>20-42082-1</td>
+    <td><a href= "https://github.com/GloriousMir">TANZIM ZAMAN SANY</a></td>
+    <td>19-41409-3</td>
   </tr>
   
   <tr>
-    <td>SADIA ISLAM</td>
-    <td>20-43395-1</td>
+    <td>TURYA GAIN</td>
+    <td>20-42684-1</td>
   </tr>
   
   <tr>
-    <td>DURJOY BARDHAN</td>
-    <td>20-43347-1</td>
+    <td>MD. TANVIR AHMMAD</td>
+    <td>20-43015-1</td>
   </tr>
   
 </table>
